@@ -1,0 +1,16 @@
+-r requirements.txt
+
+# development specific requirements
+cython~=0.29
+delocate
+hypothesis
+mypy
+numpydoc
+packaging
+pytest
+pytest-cov>=2.2.0
+pytest-randomly==3.10.1
+shapely
+sphinx
+sphinx-rtd-theme
+wheel
